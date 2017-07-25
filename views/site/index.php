@@ -50,6 +50,7 @@ use yii\widgets\LinkPager;
                     ]);
                 ?>
             </div>
+            <!--тест 2-->
             <?=$this->render('/partials/sidebar',[
                 'popular'=>$popular,
                 'recent'=>$recent,
@@ -59,5 +60,6 @@ use yii\widgets\LinkPager;
     </div>
 </div>
 <!--тест отправки commita-->
+
 <!-- end main content-->
 <!--footer start-->
