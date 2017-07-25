@@ -58,5 +58,6 @@ use yii\widgets\LinkPager;
         </div>
     </div>
 </div>
+<!--тест отправки commita-->
 <!-- end main content-->
 <!--footer start-->
